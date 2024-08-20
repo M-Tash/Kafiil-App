@@ -1,6 +1,6 @@
-# Kafiil App UI
+# Kafiil App 
 
-Kafiil is an application designed to link freelancers with clients. The following documentation provides an overview of the app's user interface developed using Flutter.
+Kafiil is an application designed to link freelancers with clients. The following documentation provides an overview of the app.
 
 ## Features
 
@@ -8,12 +8,14 @@ Kafiil is an application designed to link freelancers with clients. The followin
 - Smooth navigation and interaction.
 - Designed to be intuitive for both freelancers and clients.
 - Includes screens for browsing freelancers, posting jobs, and managing profiles.
+- **API Integration**: Implemented APIs for user registration, login, fetching profile data, retrieving countries and services.
 
 ## Technologies Used
 
 - **Flutter**: The app is built using the Flutter framework for cross-platform development.
 - **Dart**: Dart is the programming language used for developing the Flutter app.
 - **Cubit**: For efficient state management and handling complex state interactions.
+- **Clean Architecture**: The app follows the Clean Architecture principles to ensure a scalable, maintainable, and testable codebase.
 
 ## Screenshots
 <img src="https://github.com/user-attachments/assets/19d4224a-1e3c-4916-9108-963507251e3c" alt="Screenshot 2" width="30%">
@@ -24,4 +26,3 @@ Kafiil is an application designed to link freelancers with clients. The followin
 <img src="https://github.com/user-attachments/assets/bcdc7fa1-aad1-4522-a891-2d765463816a" alt="Screenshot 3" width="30%">
 <img src="https://github.com/user-attachments/assets/198feebf-df40-488c-a074-39d8b9b40e4a" alt="Screenshot 3" width="30%">
 <img src="https://github.com/user-attachments/assets/347beb7b-2be7-4f29-a1b5-2f30b668345c" alt="Screenshot 1" width="30%">
-
